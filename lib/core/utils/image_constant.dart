@@ -12,6 +12,10 @@ class ImageConstant {
 
   static String imgClose = '$imagePath/img_close.svg';
 
+  static String imgLock = '$imagePath/imgLock.png';
+
+  static String morevertical = '$imagePath/morevertical.png';
+
 // Common images
   static String imgMingcuteUser4Fill =
       '$imagePath/img_mingcute_user_4_fill.svg';
